@@ -236,4 +236,4 @@ This repository serves as the official landing page for Autodesk Design Review. 
 **Get the most recent version of Autodesk Design Review today!**
 
 ---
-**Last updated:** 2026-10-23 17:41:24 UTC
+**Last updated:** 2026-10-23 20:58:04 UTC
